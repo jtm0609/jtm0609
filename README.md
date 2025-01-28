@@ -18,3 +18,6 @@
 ![bitbucket](https://img.shields.io/badge/bitbucket-0052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-F05032?style=flat-square&logo=tistory&link=https://jtm0609.tistory.com//)](https://jtm0609.tistory.com//)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppd9865@gmail.com)](mailto:ppd9865@gmail.com)
